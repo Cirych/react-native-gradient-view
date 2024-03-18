@@ -1,12 +1,12 @@
 # react-native-gradient-view
 
-Installation
+### Installation
 
 ```sh
 npm install @cirych/react-native-gradient-view
 ```
 
-Usage
+### Usage
 
 ```javascript
 import { GradientViewView } from "@cirych/react-native-gradient-view";
@@ -16,10 +16,10 @@ import { GradientViewView } from "@cirych/react-native-gradient-view";
 <GradientViewView colors={['red', '#00a852dd', '#ffa852', 'brown', 'blue']} angle={15} />
 ```
 
-Contributing
+### Contributing
 
 See the contributing guide to learn how to contribute to the repository and the development workflow.
 
-License
+### License
 
 MIT
