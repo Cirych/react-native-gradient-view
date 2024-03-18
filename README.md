@@ -5,13 +5,13 @@ react-native-gradient-view
 ## Installation
 
 ```sh
-npm install react-native-gradient-view
+npm install @cirych/react-native-gradient-view
 ```
 
 ## Usage
 
 ```js
-import { GradientViewView } from "react-native-gradient-view";
+import { GradientViewView } from "@cirych/react-native-gradient-view";
 
 // ...
 

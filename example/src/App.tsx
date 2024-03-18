@@ -1,7 +1,7 @@
 import * as React from 'react';
 
 import { StyleSheet, View, Text, processColor } from 'react-native';
-import { GradientViewView } from 'react-native-gradient-view';
+import { GradientViewView } from '@cirych/react-native-gradient-view';
 
 const colorList = [
   { offset: '0%', color: 'blue' },
